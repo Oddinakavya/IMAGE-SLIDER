@@ -113,5 +113,11 @@ CODE FOR TASK 3: IMAGE SLIDER
 </body>
 </html>
 
-output:
-https://github.com/Oddinakavya/IMAGE-SLIDER/issues/1#issue-2991278039
+output for task 3 :image_slider
+
+![Image](https://github.com/user-attachments/assets/b44d0501-d65b-40cc-8ef2-220e7dc9bb6b)
+
+![Image](https://github.com/user-attachments/assets/05450b7b-8616-4ffe-86ca-15b8963432b0)
+
+![Image](https://github.com/user-attachments/assets/19f558d8-20fe-4799-97c5-a2b76026e6e8)
+
