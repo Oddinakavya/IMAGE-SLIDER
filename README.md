@@ -112,3 +112,6 @@ CODE FOR TASK 3: IMAGE SLIDER
   </script>
 </body>
 </html>
+
+output:
+https://github.com/Oddinakavya/IMAGE-SLIDER/issues/1#issue-2991278039
